@@ -1,6 +1,9 @@
 # Mini---Games-
 A collection of small, fun Python games made for good vibes and quick laughs. Some are clever, some are chaotic, and one of them definitely cheats. They’re easy to play, built with love (and bugs), and perfect for when you need a break but still wanna feel productive.
 
+# Demo link 
+You can play the game by scrolling down fully from the demo link and press start game which will allow you to play the game!!
+
 ![image](https://github.com/user-attachments/assets/1539a022-47ab-44e7-af87-62e922337226)
 
 ![image](https://github.com/user-attachments/assets/0d4d5b4c-d92a-470c-bc21-919e90828bf8)
